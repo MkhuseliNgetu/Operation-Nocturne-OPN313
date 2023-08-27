@@ -4,7 +4,7 @@ Operation Nocturne OPN313 is a video-game modification that aims to provide a Me
 
 The purpose of this mod is to celebrate the Metal Gear franchise and its ongoing impact on the video-game world.
 
-To get started, pick a clone a branch and follow the guide to get started.
+To get started, pick a branch, clone it and follow the guide to get started.
 
 If there are any issues, please feel free to contact me via direct message or on Nexusmods.
 
