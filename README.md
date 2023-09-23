@@ -17,6 +17,8 @@ https://github.com/MkhuseliNgetu/Operation-Nocturne-OPN313/assets/105724548/e51d
 **Clothing**
 ![20230827160819_1](https://github.com/MkhuseliNgetu/Operation-Nocturne-OPN313/assets/105724548/27b3a601-e677-447f-9346-adbeffe95af5)
 ![20230828011958_1](https://github.com/MkhuseliNgetu/Operation-Nocturne-OPN313/assets/105724548/680e93cc-a652-4b52-8507-9a736453d2ee)
+[Accessory (MGS5 - Venom Snake Forearm-Preview).webm](https://github.com/MkhuseliNgetu/Operation-Nocturne-OPN313/assets/105724548/72f61ed7-3e04-4a85-ba14-26280caa81c5)
+[Outfit (MGS3-The Boss Preview 1).webm](https://github.com/MkhuseliNgetu/Operation-Nocturne-OPN313/assets/105724548/d8dc1cb7-af57-4b92-90d9-140555effff8)
 
 ***
 ![(Main Footer - Dark)](https://github.com/MkhuseliNgetu/Operation-Nocturne-OPN313/assets/105724548/b75521b8-6eec-4486-9dd9-05a2586380a4)
