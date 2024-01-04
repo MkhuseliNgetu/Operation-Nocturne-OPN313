@@ -1,22 +1,3 @@
- UIIcon.Ford_GT_Logo:
-    $type: UIIcon_Record
-    atlasPartName: quadra_type66__basic_jen_rowley
-    atlasResourcePath: base\gameplay\gui\common\icons\vehicles_icons.inkatlas
-
- Vehicle.Ford:
-    $type: VehicleManufacturer_Record
-    enumName: Ford_GT_Logo 
-
- Vehicle.Operation_Nocturne_OPN313_Ford_GT_data:
-    $type: VehicleUIData
-    productionYear: 2017
-    info: LocKey#Operation_Nocturne_OPN313_Ford_GT_info
-    
- UIIcon.Operation_Nocturne_OPN313_Ford_GT_icon:
-    $type: UIIcon_Record
-    atlasResourcePath: base\gameplay\gui\common\icons\vehicles_icons.inkatlas
-    atlasPartName: quadra_type66__basic_jen_rowley  
-    
 Vehicle.Operation_Nocturne_OPN313_Ford_GT:
     $base: Vehicle.v_sport2_quadra_type66
     appearanceName: Operation_Nocturne_OPN313_Ford_GT_basic
@@ -26,10 +7,29 @@ Vehicle.Operation_Nocturne_OPN313_Ford_GT:
     icon: UIIcon.Operation_Nocturne_OPN313_Ford_GT_icon
     manufacturer: Vehicle.Ford
     vehicleUIData: Vehicle.Operation_Nocturne_OPN313_Ford_GT_data
-    
- ##Virtual Car Dealer Config
- Vehicle.Operation_Nocturne_OPN313_purchasable.dealerPrice: 55000
- Vehicle.Operation_Nocturne_OPN313_purchasable.dealerCred: 10
  
+ UIIcon.Ford_GT_Logo:
+    $type: UIIcon_Record
+    atlasPartName: porsche
+    atlasResourcePath: base\gameplay\gui\common\icons\weapon_manufacturers.inkatlas
+    
+ Vehicle.Ford:
+    $type: VehicleManufacturer_Record
+    enumName: Ford_GT_Logo 
+
+Vehicle.Operation_Nocturne_OPN313_Ford_GT_data:
+    $type: VehicleUIData
+    productionYear: 2017
+    info: LocKey#Operation_Nocturne_OPN313_Ford_GT_info
+    
+UIIcon.Operation_Nocturne_OPN313_Ford_GT_icon:
+    $type: UIIcon_Record
+    atlasPartName: quadra_type66__basic_jen_rowley 
+    atlasResourcePath: base\gameplay\gui\common\icons\vehicles_icons.inkatlas 
+	
+    
 Vehicle.vehicle_list.list:
   - !append Vehicle.Operation_Nocturne_OPN313_Ford_GT
+  
+Vehicle.Operation_Nocturne_OPN313_Ford_GT.dealerPrice: 50000
+Vehicle.Operation_Nocturne_OPN313_Ford_GT.dealerCred: 40
