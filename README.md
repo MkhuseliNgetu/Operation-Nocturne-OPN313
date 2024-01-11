@@ -10,6 +10,10 @@ If there are any issues, please feel free to contact me via direct message or on
 
 **These images and videos displayed are a work in progress.**
 ***
+**Cinematics (Loading Screens)** 
+![Sahalenthropus (V2 -Tagged)](https://github.com/MkhuseliNgetu/Operation-Nocturne-OPN313/assets/105724548/b0857c01-bb78-4fa9-9617-d0ccfa3b5878)
+![Venom_Snake_Main_Menu_Frame_2 (Concept)](https://github.com/MkhuseliNgetu/Operation-Nocturne-OPN313/assets/105724548/caa9d657-a5e8-4945-88fd-bc0ddcb03ae2)
+***
 **Music**
 
 https://github.com/MkhuseliNgetu/Operation-Nocturne-OPN313/assets/105724548/e51dce62-a8fb-4b2f-b7cf-c1e07bf33a19
