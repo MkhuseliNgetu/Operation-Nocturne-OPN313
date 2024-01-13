@@ -26,8 +26,8 @@ https://github.com/MkhuseliNgetu/Operation-Nocturne-OPN313/assets/105724548/53b5
 https://github.com/MkhuseliNgetu/Operation-Nocturne-OPN313/assets/105724548/e51dce62-a8fb-4b2f-b7cf-c1e07bf33a19
 ***
 **Cosmetics**
-![20240107135021_1](https://github.com/MkhuseliNgetu/Operation-Nocturne-OPN313/assets/105724548/64bfba4d-2866-4e43-bfbd-6f71edcd10bb)
-![20240107134818_1](https://github.com/MkhuseliNgetu/Operation-Nocturne-OPN313/assets/105724548/c80dc67b-f559-4bf9-89da-ac6d332206ef)
+![V has come to (V2)](https://github.com/MkhuseliNgetu/Operation-Nocturne-OPN313/assets/105724548/f43b8ae1-8a92-4e3c-82fb-a16d62c18149)
+![V has come to (V3)](https://github.com/MkhuseliNgetu/Operation-Nocturne-OPN313/assets/105724548/4577d23c-dd59-481e-8755-20659af2c9f6)
 
 ***
 **Clothing**
