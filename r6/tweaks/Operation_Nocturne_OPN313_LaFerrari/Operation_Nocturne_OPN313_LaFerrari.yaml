@@ -1,0 +1,9 @@
+Vehicle.Operation_Nocturne_OPN313_LaFerrari:
+    $base: Vehicle.v_sport1_rayfield_caliburn
+    appearanceName: Operation_Nocturne_OPN313_LaFerrari_basic
+    displayName: Operation_Nocturne_OPN313_LaFerrari_name
+    player_audio_resource: v_car_mizutani_shion_nomad
+    entityTemplatePath: Operation_Nocturne_OPN313_LaFerrari\LaFerrari\operation_nocturne_opn313_laferrari_basic_01.ent 
+    
+Vehicle.vehicle_list.list:
+  - !append Vehicle.Operation_Nocturne_OPN313_LaFerrari
