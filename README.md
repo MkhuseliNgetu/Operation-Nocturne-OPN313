@@ -33,6 +33,8 @@ https://github.com/MkhuseliNgetu/Operation-Nocturne-OPN313/assets/105724548/e51d
 **Clothing**
 ![20230827160819_1](https://github.com/MkhuseliNgetu/Operation-Nocturne-OPN313/assets/105724548/27b3a601-e677-447f-9346-adbeffe95af5)
 ![20230828011958_1](https://github.com/MkhuseliNgetu/Operation-Nocturne-OPN313/assets/105724548/680e93cc-a652-4b52-8507-9a736453d2ee)
+![20240204152142_1](https://github.com/MkhuseliNgetu/Operation-Nocturne-OPN313/assets/105724548/fb250533-6545-4fd7-87ae-492cf42df46e)
+
 ***
 **Cars**
 
