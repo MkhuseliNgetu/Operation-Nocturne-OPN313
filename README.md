@@ -32,6 +32,8 @@ https://github.com/MkhuseliNgetu/Operation-Nocturne-OPN313/assets/105724548/53b5
 https://github.com/MkhuseliNgetu/Operation-Nocturne-OPN313/assets/105724548/e51dce62-a8fb-4b2f-b7cf-c1e07bf33a19
 ***
 **Cosmetics**
+![20240225183324_1](https://github.com/MkhuseliNgetu/Operation-Nocturne-OPN313/assets/105724548/a2ee4ff5-5a37-4cb0-bdff-70fbbba3ff90)
+![20240225182123_1](https://github.com/MkhuseliNgetu/Operation-Nocturne-OPN313/assets/105724548/9807431e-b7f3-42aa-bb4e-e83a9130d9d0)
 ![V has come to (V2)](https://github.com/MkhuseliNgetu/Operation-Nocturne-OPN313/assets/105724548/f43b8ae1-8a92-4e3c-82fb-a16d62c18149)
 ![V has come to (V3)](https://github.com/MkhuseliNgetu/Operation-Nocturne-OPN313/assets/105724548/4577d23c-dd59-481e-8755-20659af2c9f6)
 
@@ -48,7 +50,10 @@ https://github.com/MkhuseliNgetu/Operation-Nocturne-OPN313/assets/105724548/e51d
 ![20230828011958_1](https://github.com/MkhuseliNgetu/Operation-Nocturne-OPN313/assets/105724548/680e93cc-a652-4b52-8507-9a736453d2ee)
 
 ***
-**Cars**
+**Cars/Mechs**
+![20240225184400_2](https://github.com/MkhuseliNgetu/Operation-Nocturne-OPN313/assets/105724548/17cade55-d289-49e2-97a4-5aa2eae3914a)
+![20240225184451_1](https://github.com/MkhuseliNgetu/Operation-Nocturne-OPN313/assets/105724548/0ab5f5cc-2e87-4051-9f87-ceb042000f98)
+
 
 
 ![20240129214321_2](https://github.com/MkhuseliNgetu/Operation-Nocturne-OPN313/assets/105724548/7cee10f4-bf8f-48f6-baef-cf3a8d6b5e77)
