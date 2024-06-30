@@ -1,9 +1,0 @@
-Vehicle.Operation_Nocturne_OPN313_Ford_GT:
-    $base: Vehicle.v_sport2_quadra_type66
-    appearanceName: Operation_Nocturne_OPN313_Ford_GT_basic
-    displayName: Operation_Nocturne_OPN313_Ford_GT_name
-    player_audio_resource: v_car_mizutani_shion_nomad
-    entityTemplatePath: operation_nocturne_opn313\ford_gt\operation_nocturne_opn313_ford_gt_basic_01.ent 
-    
-Vehicle.vehicle_list.list:
-  - !append Vehicle.Operation_Nocturne_OPN313_Ford_GT
