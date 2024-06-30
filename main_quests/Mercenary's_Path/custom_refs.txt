@@ -1,0 +1,3 @@
+base\quests\side_quests\sq033\sq033_phantoms_in_heaven.gamedef
+base\quests\side_quests\sq033\sq033_phantoms_in_heaven.quest
+base\quests\side_quests\sq033\sq033_phantoms_in_heaven.questphase
