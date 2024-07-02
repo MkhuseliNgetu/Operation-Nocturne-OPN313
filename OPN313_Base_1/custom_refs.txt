@@ -1,0 +1,3 @@
+base\journal\opn313_questcore.journal
+base\localization\en-us\opn313_questcore_onscreens.json
+base\quest\opn313_main_quests\q401_phantoms_in_heaven.questphase
