@@ -1,3 +1,17 @@
 base\quests\side_quests\sq033\sq033_phantoms_in_heaven.gamedef
 base\quests\side_quests\sq033\sq033_phantoms_in_heaven.quest
 base\quests\side_quests\sq033\sq033_phantoms_in_heaven.questphase
+base\worlds\03_night_city\03_night_city.world
+base\worlds\04_main_menu\04_main_menu.world
+opn313\quest\main_quests\q401\q401_phantoms_in_heaven.quest
+opn313\quest\side_quests\sq033\sq033_phantoms_in_heaven.gamedef
+opn313\quest\side_quests\sq033\sq033_phantoms_in_heaven.quest
+opn313\quest\side_quests\sq033\sq033_phantoms_in_heaven.questphase
+opn313\worlds\05_angola_zr\_compiled\05_angola_zr.areas
+opn313\worlds\05_angola_zr\_compiled\05_angola_zr.streamingworld
+opn313\worlds\05_angola_zr\_compiled\default\05_angola_zr.streamingworld
+opn313\worlds\05_angola_zr\05_angola_zr.streamingworld
+opn313\worlds\05_angola_zr\05_angola_zr.world
+opn313\worlds\06_galzburg_sa\_compiled\default\06_galzburg_sa.streamingworld
+opn313\worlds\06_galzburg_sa\06_galzburg_sa.streamingworld
+opn313\worlds\06_galzburg_sa\06_galzburg_sa.world

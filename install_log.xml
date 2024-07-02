@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<InstalLog Project="Galzburg_SA" Build_date="2024/07/02 00:02:02">
+  <Files>
+    <Directory Path="Z:\archive">
+      <Directory Path="Z:\archive\pc">
+        <Directory Path="Z:\archive\pc\mod">
+          <file>Z:\archive\pc\mod\Galzburg_SA.archive</file>
+        </Directory>
+      </Directory>
+    </Directory>
+  </Files>
+</InstalLog>
