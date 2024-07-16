@@ -1,3 +1,9 @@
+base\gameplay\gui\fullscreen\main_menu\character_creation_persistant_elements.inkwidget
+base\gameplay\gui\fullscreen\main_menu\opn313_expansion_new_game_menu_animations.inkanim
+base\gameplay\gui\fullscreen\main_menu\opn313_expansion_new_game_menu.inkwidget
+base\gameplay\gui\fullscreen\main_menu\opn313_new_game_selection_1080p.xbm
+base\gameplay\gui\fullscreen\main_menu\opn313_new_game_selection.inkatlas
+base\gameplay\gui\fullscreen\main_menu\opn313_new_game_selection.xbm
 base\quests\side_quests\sq033\sq033_phantoms_in_heaven.gamedef
 base\quests\side_quests\sq033\sq033_phantoms_in_heaven.quest
 base\quests\side_quests\sq033\sq033_phantoms_in_heaven.questphase
