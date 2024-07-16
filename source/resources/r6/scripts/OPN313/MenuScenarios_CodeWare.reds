@@ -24,8 +24,6 @@ protected cb func OnNewGame() -> Bool {
 }
 
 class MenuScenario_CustomExpansion extends MenuScenario_NewGame{
-   
-//Custom Expansion inkMenuEntry
 
     //Credit to new game plus maker
     protected cb func OnEnterScenario(prevScenario: CName, userData: ref<IScriptable>) -> Bool {
