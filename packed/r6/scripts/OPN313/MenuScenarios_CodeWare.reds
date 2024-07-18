@@ -1,20 +1,18 @@
 import Codeware.*
 import OPN313.Logger.*
 
+class Game_Defs extends gsmMenuState{
 
 
-/*@wrapMethod(PreGameSubMenuGameController)
-public func AddBigButton(buttonsList: ref<inkCompoundWidget>, text: script_ref<String>, callBackName: CName) -> Void{
-  wrappedMethod(this.GetRootCompoundWidget(), "venom snake",n"expansion button");
-}*/
+}
 
+class CreateSinglePlayerSession extends gsmMenuState_CreateSingleplayerSession{
 
-//Custom Main Menu Expansion Button
-/*public struct ExpansionCustomButton{
-    public let buttonsList: ref<inkCompoundWidget>;
-    public let text: script_ref<String>;
-    public let callBackName: CName = n"DiamondDogs";
-}*/
+    public static func CreateSinglePlayerSession(){
+
+        
+    }
+}
 
 //Credit to new game plus maker
 @addMethod(MenuScenario_SingleplayerMenu)
@@ -65,5 +63,7 @@ class MenuScenario_CustomExpansion_Difficulty extends MenuScenario_NewGame{
 
     protected cb func OnAccept() -> Bool {
         this.SwitchToScenario(n"MenuScenario_SingleplayerMenu");
+        this.GetMenusState().gsmMenuState_LoadGameDefinition("Game_Defs");
+
     }
 }

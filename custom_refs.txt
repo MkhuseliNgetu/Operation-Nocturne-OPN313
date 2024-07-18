@@ -1,6 +1,12 @@
 base\gameplay\gui\fullscreen\main_menu\character_creation_persistant_elements.inkwidget
+base\gameplay\gui\fullscreen\main_menu\opn313_difficulty_level_1080p.xbm
+base\gameplay\gui\fullscreen\main_menu\opn313_difficulty_level_animations.inkanim
+base\gameplay\gui\fullscreen\main_menu\opn313_difficulty_level.inkatlas
+base\gameplay\gui\fullscreen\main_menu\opn313_difficulty_level.inkwidget
+base\gameplay\gui\fullscreen\main_menu\opn313_difficulty_level.xbm
 base\gameplay\gui\fullscreen\main_menu\opn313_expansion_new_game_menu_animations.inkanim
 base\gameplay\gui\fullscreen\main_menu\opn313_expansion_new_game_menu.inkwidget
+base\gameplay\gui\fullscreen\main_menu\opn313_new_game_selection .xbm
 base\gameplay\gui\fullscreen\main_menu\opn313_new_game_selection_1080p.xbm
 base\gameplay\gui\fullscreen\main_menu\opn313_new_game_selection.inkatlas
 base\gameplay\gui\fullscreen\main_menu\opn313_new_game_selection.xbm
@@ -63,6 +69,7 @@ opn313\worlds\05_angola_zr\_compiled\default\05_angola_zr.streamingworld
 opn313\worlds\05_angola_zr\05_angola_zr.world
 opn313\worlds\05_angola_zr\default\05_angola_zr.streamingblock
 opn313\worlds\05_angola_zr\default\05_angola_zr.streamingworld
+opn313\worlds\06_galzburg_sa\_compiled\05_galzburg_sa.terrainsetup
 opn313\worlds\06_galzburg_sa\_compiled\06_galzburg_sa.areas
 opn313\worlds\06_galzburg_sa\_compiled\06_galzburg_sa.fb2tl
 opn313\worlds\06_galzburg_sa\_compiled\06_galzburg_sa.location

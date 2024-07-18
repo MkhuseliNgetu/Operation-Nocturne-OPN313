@@ -3,23 +3,14 @@ module OPN313.KeyPrompt
 import Codeware.*
 import OPN313.Logger.*
 
-//Credit to NGButtonAdder
-/*@wrapMethod(gameuiMenuItemListGameController)
-private func AddMenuItem(const label: script_ref<String>, spawnEvent: CName) -> Void {
-    wrappedMethod("Snake", n"");
-}*/
-
-
 class CustomExpansion extends ExpansionNewGame {
 
  public static func OnInitialize() -> Bool{
-
     //Logging inputs 
     OPNLog("Expansion Window Opened");
  };
 
  protected func UnInitialize() -> Bool{
-
 
  };
 
