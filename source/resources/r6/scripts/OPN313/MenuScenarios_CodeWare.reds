@@ -1,18 +1,37 @@
 import Codeware.*
 import OPN313.Logger.*
 
-class Game_Defs extends gsmMenuState{
 
+//Expansion Game Defintions
+public class ExpansionGameDefs extends PreGameSubMenuGameController{
+
+    private let m_categories: wref<SelectorController>;
+
+    private let m_gameDefinitions: wref<SelectorController>;
+
+    private let m_genders: wref<SelectorController>;
+
+
+    protected cb func OnCategoryChanged(index: Int32, value: String) -> Bool {
+    let GameDefIndex: Int32 = 3;
+
+    let values: array<String> = this.GetSystemRequestsHandler().GetGameDefinitions(this.m_categories.GetCurrIndex());
+    this.m_gameDefinitions.Clear();
+    this.m_gameDefinitions.AddValues(values);
+    if ArraySize(values) > 0 {
+      this.m_gameDefinitions.SetCurrIndex(GameDefIndex);
+    };
+
+  }
+
+   public cb func OnStartDefinition(e: ref<inkPointerEvent>) -> Bool {
+    if e.IsAction(n"click") {
+      this.GetSystemRequestsHandler().StartGameDefinition(this.m_categories.GetCurrIndex(), this.m_gameDefinitions.GetCurrIndex(), this.m_genders.GetCurrIndex());
+    };
+  }
 
 }
 
-class CreateSinglePlayerSession extends gsmMenuState_CreateSingleplayerSession{
-
-    public static func CreateSinglePlayerSession(){
-
-        
-    }
-}
 
 //Credit to new game plus maker
 @addMethod(MenuScenario_SingleplayerMenu)
@@ -27,6 +46,8 @@ class MenuScenario_CustomExpansion extends MenuScenario_NewGame{
     protected cb func OnEnterScenario(prevScenario: CName, userData: ref<IScriptable>) -> Bool {
         super.OnEnterScenario(prevScenario, userData);
         this.GetMenusState().OpenMenu(n"custom_expansion", userData);
+
+        //GameInstance.OPN313RequestHandler().GetWorlds();
     }
 
     protected cb func OnLeaveScenario(nextScenario: CName) -> Bool {
@@ -63,7 +84,8 @@ class MenuScenario_CustomExpansion_Difficulty extends MenuScenario_NewGame{
 
     protected cb func OnAccept() -> Bool {
         this.SwitchToScenario(n"MenuScenario_SingleplayerMenu");
-        //this.GetMenusState().gsmMenuState_LoadGameDefinition("Game_Defs");
+      
+        
 
     }
 }

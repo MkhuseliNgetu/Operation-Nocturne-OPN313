@@ -4,6 +4,9 @@ base\gameplay\gui\fullscreen\main_menu\opn313_difficulty_level_animations.inkani
 base\gameplay\gui\fullscreen\main_menu\opn313_difficulty_level.inkatlas
 base\gameplay\gui\fullscreen\main_menu\opn313_difficulty_level.inkwidget
 base\gameplay\gui\fullscreen\main_menu\opn313_difficulty_level.xbm
+base\gameplay\gui\fullscreen\main_menu\opn313_difficulty_level1_1080p.xbm
+base\gameplay\gui\fullscreen\main_menu\opn313_difficulty_level1.inkatlas
+base\gameplay\gui\fullscreen\main_menu\opn313_difficulty_level1.xbm
 base\gameplay\gui\fullscreen\main_menu\opn313_expansion_new_game_menu_animations.inkanim
 base\gameplay\gui\fullscreen\main_menu\opn313_expansion_new_game_menu.inkwidget
 base\gameplay\gui\fullscreen\main_menu\opn313_new_game_selection .xbm
@@ -15,6 +18,7 @@ base\quests\side_quests\sq033\sq033_phantoms_in_heaven.quest
 base\quests\side_quests\sq033\sq033_phantoms_in_heaven.questphase
 base\worlds\03_night_city\03_night_city.world
 base\worlds\04_main_menu\04_main_menu.world
+c:\users\brajo\documents\opn313\source\archive\base\gameplay\gui\fullscreen\main_menu\opn313_difficulty_level_1080p.xbm
 opn313_core_onscreens.json
 opn313_gamedefs.reslist
 opn313\journal\opn313_core.journal

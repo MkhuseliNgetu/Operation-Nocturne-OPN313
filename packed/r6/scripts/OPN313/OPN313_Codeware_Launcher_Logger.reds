@@ -11,3 +11,7 @@ public static func OPNLogWarn(value: script_ref<String>) -> Void {
 public static func OPNLogError(value: script_ref<String>) -> Void {
   FTLogError(s"[OPN313] \(value)");
 }
+
+public static func OPNArrayLogger(value: array<String>) -> Void {
+  FTLogError(s"[OPN313] \(value)");
+}

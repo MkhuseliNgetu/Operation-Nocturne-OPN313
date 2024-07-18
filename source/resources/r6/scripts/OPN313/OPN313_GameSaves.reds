@@ -1,0 +1,66 @@
+/*public native struct OPN313saveMetaData  {
+    native let additionalContentIds: array<CName>;
+    native let buildConfiguration: String;
+    native let buildID: String;
+    native let censorFlags: String;
+    native let fileSize: Uint32;
+    native let gameVersion: Uint32;
+    native let initialLoadingScreenID: Uint64;
+    native let isCheckpoint: Bool;
+    native let isEndGameSave: Bool;
+    native let isForced: Bool;
+    native let isModded: Bool;
+    native let isPointOfNoReturn: Bool;
+    native let isStoryMode: Bool;
+    native let name: String;
+    native let platform: String;
+    native let saveVersion: Uint32;
+    native let timestampString: String;
+    native let userName: String;
+   
+}*/
+
+/*public native struct OPN313gameSaveMetadata{
+ native let activeQuests: String;
+ native let assault: Float;
+ native let athletics: Float;
+ native let bodyGender: String;
+ native let brainGender: String;
+ native let brawling: Float;
+ native let buildPatch: String;
+ native let buildSKU: String;
+ native let coldBlood: Float;
+ native let combatHacking: Float;
+ native let cool: Float;
+ native let crafting: Float;
+ native let debugString: String;
+ native let demolition: Float;
+ native let difficulty: gameDifficulty;
+ native let engineering: Float;
+ native let facts: array<String>;
+ native let finishedQuests: String;
+ native let gameDefinition: String;
+ native let gunslinger: Float;
+ native let hacking: Float;
+ native let initialBuildID: String;
+ native let intelligence: Float;
+ native let level: Float;
+ native let lifePath: gamedataLifePath;
+ native let locationName: String;
+ native let mainQuest: String;
+ native let nextNonSavableEntityID: Uint32;
+ native let nextSavableEntityID: Uint32;
+ native let playerPosition: Vector3;
+ native let playthroughID: String;
+ native let playthroughTime: Double;
+ native let playTime: Double;
+ native let pointOfNoReturnId: String;
+ native let reflexes: Float;
+ native let stealth: Float;
+ native let streetCred: Float;
+ native let strength: Float;
+ native let technicalAbility: Float;
+ native let trackedQuest: String;
+ native let trackedQuestEntry: String;
+ native let visitID: String;
+}*/
