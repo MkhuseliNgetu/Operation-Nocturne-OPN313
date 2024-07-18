@@ -63,7 +63,7 @@ class MenuScenario_CustomExpansion_Difficulty extends MenuScenario_NewGame{
 
     protected cb func OnAccept() -> Bool {
         this.SwitchToScenario(n"MenuScenario_SingleplayerMenu");
-        this.GetMenusState().gsmMenuState_LoadGameDefinition("Game_Defs");
+        //this.GetMenusState().gsmMenuState_LoadGameDefinition("Game_Defs");
 
     }
 }
